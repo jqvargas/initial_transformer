@@ -1,0 +1,12 @@
+torch==1.13.1+cu116
+torchaudio==0.13.1+cu116
+torchvision==0.14.1+cu116
+torchtext==0.14.1
+pytorch-lightning==2.2.1
+tensorboard==0.7.1
+torchmetrics==1.0.3
+protobuf==3.20.3
+numpy>=1.21.0
+h5py>=3.6.0
+matplotlib>=3.4.0
+ruamel.yaml>=0.17.0 
